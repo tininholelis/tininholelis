@@ -19,7 +19,7 @@
 <h3 align="left">How to reach me </h3> 
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=00BFFF)](mailto:tininholelis@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00BFFF)](https://www.linkedin.com/in/tininholelis)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00BFFF)](https://www.linkedin.com/in/antonio-goncaalves/)
 
 <h3 align="left">Technologies & Tools</h3>
 
